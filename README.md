@@ -2,7 +2,11 @@
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently learning Machine Learning
 
-<!---
-H4TIEL/H4TIEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://github.com/h4tiel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=h4tiel&count_private=true&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github.com/h4tiel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4tiel&layout=compact&theme=dark&langs_count=8" />
+</a>
